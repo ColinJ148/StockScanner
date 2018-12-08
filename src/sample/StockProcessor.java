@@ -31,16 +31,5 @@ public class StockProcessor {
     return sma26 - sma13;
   }
 
-//  private void createStockObject(){
-//    StockQuote apple = new StockQuote("AAPL");
-//    StockQuote googl = new StockQuote("GOOGL");
-//    StockQuote facebook = new StockQuote("FB");
-//    StockQuote microsoft = new StockQuote("MSFT");
-//    StockQuote visa = new StockQuote("V");
-//    StockQuote pepsiCo = new StockQuote("PEP");
-//    StockQuote atnt = new StockQuote("T");
-//    StockQuote verzion = new StockQuote("VZ");
-//    StockQuote netflix = new StockQuote("NFLX");
-//    StockQuote electronicArts = new StockQuote("EA");
-//  }
+
 }
